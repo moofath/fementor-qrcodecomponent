@@ -52,7 +52,7 @@ This project was created for a QR Code Frontend Mentor Challenge solution, to ho
     <li>
       <h3 id="learn">What I Learn</h3>
       <p>This challenge helped me to remember and re-learn about flexbox with simple cases <br>
-      Thanks <a href="https://www.frontendmentor.io">Frontend Mentor</a></p>
+        <b>Thanks <a href="https://www.frontendmentor.io">Frontend Mentor</a></b></p>
     </li>
   </ul>
 </section>
