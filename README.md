@@ -60,6 +60,7 @@ This project was created for a QR Code Frontend Mentor Challenge solution, to ho
 <section id="author">
   <h2>Author</h2>
   <ul>
-    <li>Github - <a href="">moofath</a></li>
+    <li>Github - <a href="https://github.com/moofath">moofath</a></li>
+    <li>Frontend Mentor - <a href="https://www.frontendmentor.io/profile/moofath">@moofath</a></li>
   </ul>
 </section>
