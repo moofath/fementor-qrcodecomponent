@@ -32,9 +32,34 @@ This project was created for a QR Code Frontend Mentor Challenge solution, to ho
     <li>
       <h3 id="links">Links</h3>
       <ul>
-        <li>Live site - </li>
-        <li>Github    - </li>
+        <li>Live site - <a href="">QR Code Component</a></li>
+        <li>Solution - <a href="https://github.com/moofath/fementor-qrcodecomponent">fementor-qrcodecomponent</a> (Github)</li>
       </ul>
     </li>
+  </ul>
+</section>
+
+<section id="process">
+  <h2>My Process</h2>
+  <ul>
+     <li>
+      <h3 id="built">Built With</h3>
+      <ul>
+        <li>HTML and CSS</li>
+        <li>CSS Flexbox</li>
+      </ul>
+    </li>
+    <li>
+      <h3 id="learn">What I Learn</h3>
+      <p>This challenge helped me to remember and re-learn about flexbox with simple cases <br>
+      Thanks <a href="https://www.frontendmentor.io">Frontend Mentor</a></p>
+    </li>
+  </ul>
+</section>
+
+<section id="author">
+  <h2>Author</h2>
+  <ul>
+    <li>Github - <a href="">moofath</a></li>
   </ul>
 </section>
