@@ -32,7 +32,7 @@ This project was created for a QR Code Frontend Mentor Challenge solution, to ho
     <li>
       <h3 id="links">Links</h3>
       <ul>
-        <li>Live site - <a href="">QR Code Component</a></li>
+        <li>Live site - <a href="https://fementor-qrcodecomponent.vercel.app/">QR Code Component</a></li>
         <li>Solution - <a href="https://github.com/moofath/fementor-qrcodecomponent">fementor-qrcodecomponent</a> (Github)</li>
       </ul>
     </li>
